@@ -1,6 +1,4 @@
 # SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals
-Summary for the SC-900
-
 # Study guide that maps the Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals to the Microsoft Skills Measured PDF
 
 ## Describe the Concepts of Security, Compliance, and Identity (10-15%)
